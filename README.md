@@ -5,7 +5,6 @@ bend2mod
 
 [midiglue](https://sigboost.audio/midiglue/) patch that convert MIDI pitch bend message to MIDI modulation message
 
-![screenshot](bend2mod.png)
 <img src="bend2mod.png" width="442px">
 
 
